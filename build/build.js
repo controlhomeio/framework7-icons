@@ -5,8 +5,8 @@ const buildVue = require('./build-vue');
 const buildSvelte = require('./build-svelte');
 
 const build = () => {
-  buildFont();
   copySvg();
+  buildFont();
   buildReact();
   buildSvelte();
   buildVue();
