@@ -9,3 +9,4 @@ package/vue/*.js
 package/vue/vue/*.vue
 package/svelte/*.js
 package/svelte/svelte/*.svelte
+woff2/
